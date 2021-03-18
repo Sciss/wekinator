@@ -167,7 +167,7 @@ public final class WekiMiniRunner {
         //WekiMiniRunner.isKadenze = (args.length != 0);
         WekiMiniRunner.isKadenze = false; //KADENZE SET
         try {
-            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+//            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
              UIManager.put("Slider.paintValue", false);
              //UIManager.put("Slider.thumbHeight", 5);
 
